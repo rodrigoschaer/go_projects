@@ -1,3 +1,3 @@
 module github.com/rodrigoschaer/go_projects/crud_api
 
-go 1.20
+go 1.19
